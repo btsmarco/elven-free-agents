@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "product": "elven-free",
+  "tier": "free",
+  "features": {
+    "designMode": false,
+    "researchMode": false,
+    "parallelMode": false
+  },
+  "agents": {
+    "total": 8,
+    "enabled": "all"
+  }
+}
