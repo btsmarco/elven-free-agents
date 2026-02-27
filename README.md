@@ -79,11 +79,11 @@ Visit [elven.team](https://elven.team?utm_source=github&utm_medium=free-package&
 
 ---
 
-## Stay Updated
+## Stay in the Loop
 
-New agents, techniques, and updates — no spam:
+We're building Elven in public — agent techniques, real workflows, and what's actually working. No spam, just build notes from one builder to another:
 
-**[Subscribe to the Elven changelog](https://elven.team/?utm_source=github&utm_medium=free-package&utm_campaign=newsletter#newsletter)**
+**[Get the build notes](https://elven.team/?utm_source=github&utm_medium=free-package&utm_campaign=email-capture#newsletter)**
 
 ---
 

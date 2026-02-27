@@ -60,12 +60,20 @@ Fill in `.elven/profile.md` with your company information so the agents understa
 
 ---
 
+## Stay in the Loop
+
+We're building Elven in public — agent techniques, workflow tips, and upgrade paths. No spam, just useful stuff from one builder to another:
+
+**[Get the build notes](https://elven.team/?utm_source=github&utm_medium=free-package&utm_campaign=email-capture#newsletter)**
+
+---
+
 ## Want More?
 
 This is the **Free** tier of Elven. Upgrade for strategic depth:
 
-- **Starter ($29)** — adds Arthur (CEO), Maat (Devil's Advocate), Atum (create custom agents), and Design Mode
-- **Full Team ($197)** — all 32 agents with Galadriel orchestration, sprint methodology, shared memory, and 11 maturity models
+- **Starter ($29)** — adds strategic planning, devil's advocate critique, and custom agent creation
+- **Full Team ($197)** — all 32 agents with orchestration, sprint methodology, shared memory, and 11 maturity models
 
 Learn more at [elven.team](https://elven.team?utm_source=github&utm_medium=free-package&utm_campaign=upgrade)
 
